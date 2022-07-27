@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokenpô</string>
+    <string name="result_escription">Jogue para descobrir!</string>
+    <string name="app_decription_chose">Escolha do app</string>
+    <string name="description_img_paper">imagem de um papel</string>
+    <string name="description_img_rock">imagem de uma pedra</string>
+    <string name="description_img_scissor">imagem de uma tesoura</string>
+    <string name="description_img_computer_choice">imagem escolhida pelo computador</string>
+</resources>
